@@ -14,7 +14,7 @@ Uma vez pressionado o botão "QUEBRA", é necessário que a página seja recarre
 
 + Estruturas de Controle ( Condicional IF)
 + Laço de Repetição (While)
-+ Opeador de negação (!)
++ Operador de negação (!)
 + Uso do método setTimeout
 + Uso do método indexOf
 + Design Responsivo em HTML

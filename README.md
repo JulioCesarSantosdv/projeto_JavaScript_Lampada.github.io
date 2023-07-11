@@ -2,7 +2,7 @@
 
 Status: Em Desenvolvimento ⚠️
 
-Este aplicação web consiste em uma lâmpada na qual o usuário pode interagir através dos botões:"LIGA","DESLIGA","PISCA" e "QUEBRA".
+Esta aplicação web consiste em uma lâmpada na qual o usuário pode interagir através dos botões:"LIGA","DESLIGA","PISCA" e "QUEBRA".
 Uma vez pressionado o botão "QUEBRA", é necessário que a página seja recarregada para recompor a lâmpada.
 
 <h2>Inspirado na atividade dos professores:</h2>
